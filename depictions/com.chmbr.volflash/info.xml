@@ -13,18 +13,19 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>VolFlash lets you choose how to easily toggle your flashlight with the hardware buttons, currently there are 6 gestures available:
-1. Volume up then volume down (and vice versa)
-2. Volume up and down
-3. Hold the power button
-4. Double press the power button
-5. Triple press the power button
-6. Triple press the home button
-
-You can suggest new gestures by sending me a message on reddit (u/Cemre2017) or on twitter (@Cemre_Suler)
-
+		<description><![CDATA[
+VolFlash lets you choose how to easily toggle your flashlight with the hardware buttons, currently there are 6 gestures available: <br/>
+1. Volume up then volume down (and vice versa) <br/>
+2. Volume up and down <br/>
+3. Hold the power button <br/>
+4. Double press the power button <br/>
+5. Triple press the power button <br/>
+6. Triple press the home button <br/>
+<br/>
+You can suggest new gestures by sending me a message on reddit (u/Cemre2017) or on twitter (@Cemre_Suler) <br/>
+<br/>
 Thanks to u/chilaxan for assisting me with creating this tweak!
-</description>
+]]></description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
