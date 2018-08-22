@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.1</version>
-		<change>Fixed the tweak not working for some people</change>
+		<version>1.2</version>
+		<change>Fixed major issue that put people in to safe mode</change>
 	</changes>
 </changelog>
