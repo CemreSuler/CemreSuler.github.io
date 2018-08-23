@@ -1,7 +1,7 @@
 <package>
 	<id>com.chmbr.volflash</id>
 	<name>VolFlash</name>
-	<version>1.2</version>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.3.1</maxiOS>
@@ -14,13 +14,15 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description><![CDATA[
-VolFlash lets you choose how to easily toggle your flashlight with the hardware buttons, currently there are 6 gestures available: <br/>
+VolFlash lets you choose how to easily toggle your flashlight with the hardware buttons, currently there are 8 gestures available: <br/>
 1. Volume up then volume down (and vice versa) <br/>
 2. Volume up and down <br/>
-3. Hold the power button <br/>
-4. Double press the power button <br/>
-5. Triple press the power button <br/>
-6. Triple press the home button <br/>
+3. Hold the volume up button <br/>
+4. Hold the volume down button <br/>
+5. Hold the power button <br/>
+6. Double press the power button <br/>
+7. Triple press the power button <br/>
+8. Triple press the home button <br/>
 <br/>
 You can suggest new gestures by sending me a message on reddit (u/Cemre2017) or on twitter (@Cemre_Suler) <br/>
 <br/>
@@ -29,7 +31,7 @@ Thanks to u/chilaxan for assisting me with creating this tweak!
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fixed major issue that put people in to safe mode</change>
+		<change>Added two new gestures and fixed the respring button not working for everyone.</change>
 	</changelog>
 	<links></links>
 </package>
